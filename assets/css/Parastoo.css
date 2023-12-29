@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Parastoo';
+	src: url(../../assets/fonts/Parastoo-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Parastoo-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Parastoo-Bold.woff) format('woff'),
+	url(../../assets/fonts/Parastoo-Bold.ttf) format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: auto;
+}
